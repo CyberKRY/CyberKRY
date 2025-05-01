@@ -8,7 +8,7 @@ This is where I share my projects, tools, progress, and achievements.
 My primary programming language is Python, but ever since I started reading  
 **"Hacking: The Art of Exploitation" by Jon Erickson**, I've also begun studying C to deepen my understanding of low-level exploitation.
 
-You can track most of my practical results on the TryHackMe platform, where I go by the nickname **TRY**.  
+You can track most of my practical results on the TryHackMe platform, where I go by the nickname <a href="https://tryhackme.com/p/KRY" style="text-decoration: none;">TRY</a>.  
 My current goal is to earn the **OSCP certification** — a major milestone on my path.
 
 ![KRY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberKRY&show_icons=true&count_private=true&hide_title=true&theme=dark) 
