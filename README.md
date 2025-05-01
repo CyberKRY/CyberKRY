@@ -11,4 +11,8 @@ My primary programming language is Python, but ever since I started reading
 You can track most of my practical results on the TryHackMe platform, where I go by the nickname **TRY**.  
 My current goal is to earn the **OSCP certification** — a major milestone on my path.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KRY&show_icons=true&theme=radical)](https://github.com/CyberKRY)
+![KRY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberKRY&show_icons=true&count_private=true&hide_title=true&theme=dark) 
+
+
+
+
