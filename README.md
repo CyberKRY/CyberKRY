@@ -13,7 +13,3 @@ My current goal is to earn the **OSCP certification** — a major milestone on m
 
 ![KRY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberKRY&show_icons=true&count_private=true&hide_title=true&theme=dark) 
 
-<a href="https://www.buymeacoffee.com/KRY1" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-</a>
-
