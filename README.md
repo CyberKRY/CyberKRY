@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+mind.;Hello%2C+I+am+KRY.;OSCP+is+not+a+dream%2C+it's+the+plan." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+KRY." alt="Typing SVG" />
 </p>
 
 For the past two months, I've been actively diving into the field of cybersecurity — with a strong focus on penetration testing.
