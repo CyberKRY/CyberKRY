@@ -12,4 +12,9 @@ You can track most of my practical results on the TryHackMe platform, where I go
 My current goal is to earn the **OSCP certification** — a major milestone on my path.
 
 
+![Profile views](https://komarev.com/ghpvc/?username=CyberKRY&color=blue)
+
+
+![CyberKRY's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberKRY&show_icons=true&theme=tokyonight)
+
 
