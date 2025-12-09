@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+KRY." alt="Typing SVG" />
 </p>
 
-For the past two months, I've been actively diving into the field of cybersecurity — with a strong focus on penetration testing.
+For many months, I have been delving into cybersecurity, with a focus on penetration testing.
 
 This is where I share my projects, tools, progress, and achievements.  
 My primary programming language is Python, but ever since I started reading  
