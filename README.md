@@ -14,7 +14,7 @@ My current goal is to earn the **OSCP certification** — a major milestone on m
 
 ![Profile views](https://komarev.com/ghpvc/?username=CyberKRY&color=blue)
 
-![CyberKRY's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberKRY&show_icons=true&theme=tokyonight)
+![CyberKRY GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberKRY&show_icons=true&theme=tokyonight)
 
 
 
